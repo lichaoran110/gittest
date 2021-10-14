@@ -11,5 +11,6 @@ package com.atguigu.git;/**
 public class Gtest {
     public static void main(String[] args) {
         System.out.println("hello GGGGG");
+        System.out.println("hello iiii");
     }
 }
