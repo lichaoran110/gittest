@@ -15,6 +15,7 @@ public class Gtest {
         System.out.println("hello tttt");
         System.out.println("hello MasterTest");
         System.out.println("push MasterTest");
+         System.out.println("pull MasterTest");
 
 
     }
